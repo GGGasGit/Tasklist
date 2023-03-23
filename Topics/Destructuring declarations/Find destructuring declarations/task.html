@@ -1,0 +1,26 @@
+<h2>Find destructuring declarations</h2>
+<html><body>
+<p>You have the following data class:</p>
+<pre><code class="language-kotlin">data class Student(val name: String, val age: Int, val isStudent: Boolean)
+</code></pre>
+<p>Choose all the correct cases of destructuring declarations:</p>
+<pre><code class="language-kotlin">1) fun iterateThroughStudentsList(studentData: MutableList&lt;Student&gt;) {
+    for ((name, _, isStudent) in studentData) {
+        // some code
+    }
+}</code></pre>
+<pre><code class="language-kotlin">2) fun iterateThroughStudentsList(studentData: MutableList&lt;Student&gt;) {
+    for ((, age, isStudent) in studentData) {
+        // some code
+    }
+}</code></pre>
+<pre><code class="language-kotlin">3) fun iterateThroughStudentsList(studentData: MutableList&lt;Student&gt;) {
+    for ((name, age, ) in studentData) {
+        // some code
+    }
+}</code></pre>
+<pre><code class="language-kotlin">4) fun iterateThroughStudentsList(studentData: MutableList&lt;Student&gt;) {
+    for ((_, _, _) in studentData) {
+        // some code
+    }
+}</code></pre></body></html>

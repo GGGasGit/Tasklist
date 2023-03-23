@@ -1,0 +1,25 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    import kotlinx.datetime.*
+
+    fun isLeapYear(year: String): Boolean {
+        // Write your code here
+
+        //
+    }
+
+    fun main() {
+        val year = readln()
+        println(isLeapYear(year))
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19465#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 18 Mar 2023 10:47:24 UTC"
+record: -1
+submission_language: kotlin

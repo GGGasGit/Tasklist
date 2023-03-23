@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Extract first N variables from any object
+- text: Convert an object to a List instance
+- text: Extract first N variables from a list
+- text: Convert an object into a number of variables
+- text: Create multiple values
+- text: Remove an object and return a new one
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9048#comment
+status: Unchecked
+record: -1
+local_check: false

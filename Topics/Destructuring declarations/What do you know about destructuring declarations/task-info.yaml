@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Code becomes more readable
+- text: It creates only three variables
+- text: It may cause bugs
+- text: We can create multiple variables
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20477#comment
+status: Solved
+record: -1
+custom_name: What do you know about destructuring declarations?
+local_check: false

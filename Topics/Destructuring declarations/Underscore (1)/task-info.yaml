@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: It removes unused variables
+- text: It clears a variable in an object
+- text: It skips a variable in an object
+- text: It allows to copy a new object without this variable
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9050#comment
+status: Solved
+record: -1
+custom_name: Underscore
+local_check: false

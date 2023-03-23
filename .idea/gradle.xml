@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Tasklist/task" />
+            <option value="$PROJECT_DIR$/Tasklist/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Tasklist/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Tasklist/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Tasklist/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/ComponentN" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/ComponentN (1)" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/Destructuring declaration" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/Find destructuring declarations" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/Fix a bug" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/Pretty output" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/The meaning of operator" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/Underscore" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/Underscore (1)" />
+            <option value="$PROJECT_DIR$/Topics/Destructuring declarations/What do you know about destructuring declarations" />
+            <option value="$PROJECT_DIR$/Topics/Kotlinx datetime library/DateTimePeriod class" />
+            <option value="$PROJECT_DIR$/Topics/Kotlinx datetime library/Days difference" />
+            <option value="$PROJECT_DIR$/Topics/Kotlinx datetime library/Days until" />
+            <option value="$PROJECT_DIR$/Topics/Kotlinx datetime library/Instant class" />
+            <option value="$PROJECT_DIR$/Topics/Kotlinx datetime library/Instant class initiation" />
+            <option value="$PROJECT_DIR$/Topics/Kotlinx datetime library/Leap Year" />
+            <option value="$PROJECT_DIR$/Topics/Kotlinx datetime library/Next Month" />
+            <option value="$PROJECT_DIR$/Topics/Kotlinx datetime library/Subtracting Instant Objects" />
+            <option value="$PROJECT_DIR$/Topics/Kotlinx datetime library/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Kotlinx datetime library/TimeZone class initiation" />
+            <option value="$PROJECT_DIR$/Topics/Kotlinx datetime library/Using the kotlinx-datetime library" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: "fun component2(): String = \"Incorrect\""
+- text: "override operator fun component2(): String = \"Incorrect\""
+- text: "override fun component2(): String = \"Correct\""
+- text: "actual fun component2(): String = \"Incorrect\""
+- text: "operator fun component2(): String = \"Incorrect\""
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9049#comment
+status: Solved
+record: -1
+local_check: false
